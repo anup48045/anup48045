@@ -22,7 +22,7 @@ Email Me 👉 ✉️ **anup48045@gmail.com** For Collaboration/Project or Anythi
 - 👯 **I’m looking to collaborate on:** innovative open-source data science projects
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** anup48045@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** My favorite GUI is the terminal.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_anup_md) 
