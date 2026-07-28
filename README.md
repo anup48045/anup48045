@@ -1,23 +1,35 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&height=80&duration=5000&pause=2000&color=15690BEE&center=true&vCenter=true&width=800&lines=Hi+I'm+Anup+Kumar+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+ML+%7C+DevOps+Learner;git+commit+-m+%22It+Works...+Don't+Touch+It%22" alt="Typing SVG" />
-<br>
-<img src="https://komarev.com/ghpvc/?username=anup48045&color=brightgreen&style=for-the-badge&label=PLAYERS+VISITED" alt="Profile Views" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=180&section=header&text=Hi%20there!%20I'm%20Anup&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Header Banner"/>
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=15690BEE&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+ML+Learner%7C+DevOps+Explorer;git+commit+-m+%22It+Works...+Don't+Touch+It%22" alt="Typing SVG" />
+<br>
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Data+Enthusiast+%26+ML+Explorer;Open+Source+Contributor;Problem+Solver+%F0%9F%A7%A9;Lifelong+Learner+%F0%9F%92%A1" alt="Typing SVG" /> -->
+</div>
+
+<p align="center">
+  <a href="https://github.com/anup48045?tab=followers">
+    <img src="https://img.shields.io/github/followers/anup48045?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=anup48045&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</p>
 
 Email Me 👉 ✉️ **anup48045@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently working on:** Data Analysis and Machine Learning Projects
+- 🌱 **I’m currently learning:** AI ML & DevOps
+- 👯 **I’m looking to collaborate on:** innovative open-source data science projects
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** anup48045@gmail.com
-- 😄 **Pronouns:** Anup
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_anup_md) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anup48045) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anup48045) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anup48045@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_anup_md) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anup48045) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anup48045) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anup48045@gmail.com) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/anup48045) 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2>📊 My Contribution Graph</h2>
@@ -79,21 +91,19 @@ Email Me 👉 ✉️ **anup48045@gmail.com** For Collaboration/Project or Anythi
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=anup48045&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=anup48045&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anup48045&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anup48045&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=anup48045&theme=onedark&no-frame=true&row=1&column=7)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anup48045&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=anup48045&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
