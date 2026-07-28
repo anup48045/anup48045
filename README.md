@@ -20,15 +20,9 @@ Email Me 👉 ✉️ **anup48045@gmail.com** For Collaboration/Project or Anythi
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_anup_md) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anup48045) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anup48045) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anup48045@gmail.com) 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Snake Game Repo View -->
-
-<!-- <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div> -->
-
 <h2>📊 My Contribution Graph</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anup48045/anup48045FST/output/github-contribution-grid-snake.svg" alt="Animated contribution graph">
+  <img src="https://raw.githubusercontent.com/anup48045/anup48045/output/github-contribution-grid-snake.svg" alt="Animated contribution graph">
 </div>
 
 <br>
@@ -37,6 +31,7 @@ Email Me 👉 ✉️ **anup48045@gmail.com** For Collaboration/Project or Anythi
   <img src="https://github.com/anup48045/anup48045/raw/main/assets/wave.gif" alt="wave" width="350"/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3I5azQxeWNzcjRpbzZoMDZjMHhibWhjYzE5dHViOHA0eGpxYXhnbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NZv1UCYmrJZcVu3Vp5/giphy.gif" width="32"> Tech Stack
 
