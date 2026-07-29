@@ -100,10 +100,9 @@ Email Me 👉 ✉️ **anup48045@gmail.com** For Collaboration/Project or Anythi
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anup48045&theme=onedark&no-frame=true&row=1&column=7)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:EC4899&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=4F46E5" />
+</p>
