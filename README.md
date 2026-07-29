@@ -19,7 +19,7 @@ Email Me 👉 ✉️ **anup48045@gmail.com** For Collaboration/Project or Anythi
 
 - 🔭 **I’m currently working on:** Data Analysis and Machine Learning Projects
 - 🌱 **I’m currently learning:** AI ML & DevOps
-- 👯 **I’m looking to collaborate on:** innovative open-source data science projects
+- 👯 **I’m looking to collaborate on:** Innovative open-source data science projects
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** anup48045@gmail.com
 - ⚡ **Fun fact:** My favorite GUI is the terminal.
