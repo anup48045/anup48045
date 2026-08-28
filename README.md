@@ -32,14 +32,22 @@ Email Me 👉 ✉️ **anup48045@gmail.com** For Collaboration/Project or Anythi
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2>📊 My Contribution Graph</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anup48045/anup48045/output/github-contribution-grid-snake.svg" alt="Animated contribution graph">
-</div>
-
-<br>
 
 <div align="center">
-  <img src="https://github.com/anup48045/anup48045/raw/main/assets/wave.gif" alt="wave" width="350"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/anup48045/anup48045/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/anup48045/anup48045/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/anup48045/anup48045/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
